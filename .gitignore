@@ -1,0 +1,9 @@
+venv/
+node_modules/
+*.zip
+*.safetensors
+*.pyc
+__pycache__/
+.env
+.DS_Store
+__MACOSX/

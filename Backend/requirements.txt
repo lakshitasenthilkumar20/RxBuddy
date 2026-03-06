@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+pydantic[email]
+passlib[bcrypt]
+python-jose
+python-multipart
+torch
+transformers
+Pillow
+opencv-python
+numpy
+easyocr
+rapidfuzz
+requests
