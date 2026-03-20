@@ -144,7 +144,7 @@ Built with ❤️ at **Helyxon Healthcare Solutions**
 |---|---|
 | Lakshita S | Frontend Development & Integration |
 | [Samyuktha](https://github.com/Samyuktha13-06) | Backend Development & Integration |
-| [Madhura Bashini(https://github.com/madhurabashinims)] | OCR Model Finetuning |
+| [Madhura Bashini](https://github.com/madhurabashinims) | OCR Model Finetuning |
 
 ---
 
