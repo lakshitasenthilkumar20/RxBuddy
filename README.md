@@ -62,6 +62,25 @@ Handwritten Prescription
 
 ---
 
+📸 Screenshots
+Dashboard
+The main patient dashboard provides a real-time safety overview with three status cards — Health Status, Drug Interactions, and Allergy Risks — giving clinicians an instant at-a-glance summary. The Record Summary tracks total prescriptions uploaded, and the Recent Activity feed logs all platform events chronologically.
+![Dashboard](assets/dashboard.png)
+
+Prescription Manager
+The prescription management view lists all uploaded prescriptions with their processing status and safety classification. Each entry displays a unique ID, upload date, active/inactive status, and a colour-coded safety badge — flagging severe interactions before a pharmacist reviews the medication.
+![Prescriptions](assets/prescriptions.png)
+
+Drug Interaction Review
+The drug interaction review screen breaks down detected conflicts into cross-prescription and within-prescription categories, showing exact drug pairs and their clinical risk description. Here, Venlafaxine + Amitriptyline is flagged for increased adverse effect severity — sourced from the RxBuddy interaction database in real time.
+![Drug](assets/Drug.png)
+
+Allergy Profile Manager
+Patients and clinicians can maintain a structured allergy profile, logging each medication allergy with its reaction type and severity level. When a new prescription is uploaded, RxBuddy automatically cross-references it against this profile — catching conflicts before dispensing.
+![Allergy](assets/Allergy.png)
+
+----
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology | Purpose |
